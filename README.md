@@ -10,13 +10,11 @@ If you use this work in your research, please cite the following paper:
 Muhammad Zubair, Paulo Nunes, Caroline Conti, and Luís Ducla Soares, "Light Field View Synthesis Using Deformable Convolutional Neural Networks," in *2024 Picture Coding Symposium (PCS)*, 2024, pp. 1-5. doi: [10.1109/PCS60826.2024.10566360](https://doi.org/10.1109/PCS60826.2024.10566360).
 
 ### BibTeX
-```bibtex
-@INPROCEEDINGS{10566360,
-  author={Zubair, Muhammad and Nunes, Paulo and Conti, Caroline and Soares, Luís Ducla},
-  booktitle={2024 Picture Coding Symposium (PCS)}, 
-  title={Light Field View Synthesis Using Deformable Convolutional Neural Networks}, 
+@inproceedings{zubair2024light,
+  title={Light Field View Synthesis Using Deformable Convolutional Neural Networks},
+  author={Zubair, Muhammad and Nunes, Paulo and Conti, Caroline and Soares, Lu{\'\i}s Ducla},
+  booktitle={2024 Picture Coding Symposium (PCS)},
+  pages={1--5},
   year={2024},
-  pages={1-5},
-  keywords={Convolutional codes;Learning systems;Geometry;Three-dimensional displays;Imaging;Benchmark testing;Feature extraction;light field view synthesis;deformable convolution;depth-wise separable convolution;geometry-aware network},
-  doi={10.1109/PCS60826.2024.10566360}
+  organization={IEEE}
 }
