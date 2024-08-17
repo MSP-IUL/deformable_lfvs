@@ -7,9 +7,10 @@ Light Field (LF) imaging has emerged as a technology that can simultaneously cap
 If you use this work in your research, please cite the following paper:
 
 ### IEEE Style
-Muhammad Zubair, Paulo Nunes, Caroline Conti, and Luís Ducla Soares, "Light Field View Synthesis Using Deformable Convolutional Neural Networks," in *2024 Picture Coding Symposium (PCS)*, 2024, pp. 1-5. doi: [10.1109/PCS60826.2024.10566360](https://doi.org/10.1109/PCS60826.2024.10566360).
+Muhammad Zubair, Paulo Nunes, Caroline Conti, and Luís Ducla Soares, "Light Field View Synthesis Using Deformable Convolutional Neural Networks," in *2024 Picture Coding Symposium (PCS)*, 2024, pp. 1-5.
 
 ### BibTeX
+```bibtex
 @inproceedings{zubair2024light,
   title={Light Field View Synthesis Using Deformable Convolutional Neural Networks},
   author={Zubair, Muhammad and Nunes, Paulo and Conti, Caroline and Soares, Lu{\'\i}s Ducla},
