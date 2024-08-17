@@ -13,7 +13,7 @@ Muhammad Zubair, Paulo Nunes, Caroline Conti, and Luís Ducla Soares, "Light Fie
 ```bibtex
 @inproceedings{zubair2024light,
   title={Light Field View Synthesis Using Deformable Convolutional Neural Networks},
-  author={Zubair, Muhammad and Nunes, Paulo and Conti, Caroline and Soares, Lu{\'\i}s Ducla},
+  author={Zubair, Muhammad and Nunes, Paulo and Conti, Caroline and Soares, Luis Ducla},
   booktitle={2024 Picture Coding Symposium (PCS)},
   pages={1--5},
   year={2024},
